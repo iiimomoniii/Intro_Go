@@ -1,7 +1,9 @@
 package main
 
-import ("fmt")
+import (
+	"fmt"
+)
 
-func main(){
-	fmt.Println("Hello Golang");
+func main() {
+	fmt.Println("Hello Golang")
 }
