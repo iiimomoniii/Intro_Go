@@ -1,0 +1,7 @@
+go 1.21.5
+
+use (
+	./demo14_OOP
+	./demo15_OOP_Constructor
+	./demo16_OOP_Constructor_and_Pointer
+)

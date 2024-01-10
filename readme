@@ -1,0 +1,6 @@
+#mutiple projects in folder
+#fix gopls was not able to find modules in your workspace.
+
+cd Intro
+go work init
+go work use demo1 or ...

@@ -1,0 +1,2 @@
+Fix index.go:3:8: package demo15/employee is not in std (C:\Program Files\Go\src\demo15\employee)
+D:\Projects\Codemobile\Go\Intro>go work use demo14_OOP

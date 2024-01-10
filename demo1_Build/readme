@@ -1,0 +1,11 @@
+#command for run code
+go run index.go
+
+#command for build
+go build
+
+#command for run from command
+demo1.exe
+
+#fix debug
+go mod init demo1
