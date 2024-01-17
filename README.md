@@ -1,5 +1,5 @@
 "# Intro_Go" 
-#How to new prepair before run index.go inside Sub-Project
+#How to prepair before run index.go inside Sub-Project
 cd Intro
 go work init
 go work use demo1 or ...
